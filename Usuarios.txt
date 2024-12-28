@@ -1,0 +1,4 @@
+administrador: richard
+usuario: bill 
+
+password: usuar10
